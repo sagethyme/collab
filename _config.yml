@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: Write, Version, Merge, Right
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: When you want to write more, write better, merge drafts, and write with others.
 logo: site-logo.png
-url: https://mmistakes.github.io/so-simple-theme
+url: https://sagethyme.github.io/collab
 
 # Jekyll configuration
 
@@ -25,7 +25,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..2
-  use_coderay: false
+  enable_coderay: false
 
 mathjax: true
 
@@ -36,24 +36,24 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
-  avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  name: Anne Gentle
+  avatar: photo.jpg
+  email: annegentle@justwriteclick.com
+  disqus-shortname: sagethyme
+  twitter: jwc
+  facebook: 
+  github: sagethyme
   stackexchange:
   linkedin:
-  instagram: mmistakes
+  instagram:
   flickr:
-  tumblr: mademistakes
+  tumblr: 
   pinterest:
   weibo:
   google:
-    plus: MichaelRoseDesign
-    analytics: UA-2011187-2
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
+    plus: AnneGentle
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot:
+  bing-verify: 
